@@ -11,8 +11,8 @@ This implementation contains complete MLP/CNN training pipeline with:
 
 ## Pre-trained Weights
 Download from Google Drive (replace with your links):
-MLP: https://drive.google.com/your_mlp_weights_link
-CNN: https://drive.google.com/your_cnn_weights_link
+MLP: https://drive.google.com/file/d/1sxr4OXKOzUwEtGE_8MBPyZu4LaRBMdaI/view?usp=drive_link
+CNN: https://drive.google.com/file/d/1LAzYK6MEA6HCz4ApYG1Cnyold7fYnVrX/view?usp=drive_link
 
 ## Dataset Preparation
 1. Create folder structure:
